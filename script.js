@@ -5,7 +5,7 @@
 // Choose: "available", "busy", "maybe", or null
 // Use null when you want the normal schedule to decide.
 
-const manualOverride = null;
+const manualOverride = "Busy";
 
 
 // ========================================
